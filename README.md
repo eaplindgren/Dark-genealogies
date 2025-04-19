@@ -131,7 +131,7 @@ $$
 
 Now, depending on your point of view, you might contend these results aren't really accurate. For example, Elizabeth's full ancestry says she's 66.6% Charlotte. This is because she's 50% Charlotte from Charlotte being her mother, 12.5% percent Charlotte from Charlotte being her great-grandmother, and so on. You might contend that she's really still just 50% Charlotte, because the extra 16.6% comes from the fact that _Charlotte is 33.3% Charlotte_, and we're double-counting. Unfortunately I've already spent way way too much time on this project given that it's finals season, I only just realized this issue as I was writing this up, and so I'm not fixing it.
 
-## Less Mathy Explanation
+### Less Mathy Explanation
 #### "Regular" Genealogy Method
 Suppose you want to calculate Jonas's ancestry. Imagine you're standing on his name in the family tree on the floor of Eva's base. you flip a coin and, if heads, you walk to Hannah's name. If tails, you walk to Mikkel's name. If you're at Hannah's name, you stop there, but if you're at Mikkel's, you continue the process, flipping a coin to randomly choose one of the current person's parents, until you end up at a person whose parents aren't in the tree. Depending on your sequence of coin flips you might walk in a circle and end up back at Jonas, or even do that multiple times, but _eventually_ you'll always end up at one of the people at the "ends" of the tree. There's some probability of your "random walk" (that's actually a technical term) ending up at each of those people. For example, there's a 50% chance of ending up at Hannah immediately, plus a little extra probability that you circle back to Jonas and then go to Hannah, or go all the way back to Silja and then Hannah.
 
