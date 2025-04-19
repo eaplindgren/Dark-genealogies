@@ -1,0 +1,92 @@
+If Tronte had been Regina's father. This leads to Regina, Bartosz, Noah, and Agnes being bootstrappedClaudia:
+  Egon: 50.0%
+  Doris: 50.0%
+Tronte:
+  Hannah: 29.63%
+  Katharina: 22.22%
+  Egon: 18.52%
+  Alexander: 14.81%
+  Jana: 11.11%
+  Doris: 3.7%
+Regina:
+  Egon: 34.26%
+  Doris: 26.85%
+  Hannah: 14.81%
+  Katharina: 11.11%
+  Alexander: 7.41%
+  Jana: 5.56%
+Bartosz:
+  Alexander: 53.7%
+  Egon: 17.13%
+  Doris: 13.43%
+  Hannah: 7.41%
+  Katharina: 5.56%
+  Jana: 2.78%
+Silja:
+  Egon: 50.0%
+  Hannah: 50.0%
+Noah:
+  Egon: 33.56%
+  Hannah: 28.7%
+  Alexander: 26.85%
+  Doris: 6.71%
+  Katharina: 2.78%
+  Jana: 1.39%
+Agnes:
+  Egon: 33.56%
+  Hannah: 28.7%
+  Alexander: 26.85%
+  Doris: 6.71%
+  Katharina: 2.78%
+  Jana: 1.39%
+Elizabeth:
+  Peter: 66.67%
+  Egon: 11.19%
+  Hannah: 9.57%
+  Alexander: 8.95%
+  Doris: 2.24%
+  Katharina: 0.93%
+  Jana: 0.46%
+Charlotte:
+  Peter: 33.33%
+  Egon: 22.38%
+  Hannah: 19.14%
+  Alexander: 17.9%
+  Doris: 4.48%
+  Katharina: 1.85%
+  Jana: 0.93%
+Ulrich:
+  Jana: 55.56%
+  Hannah: 14.81%
+  Katharina: 11.11%
+  Egon: 9.26%
+  Alexander: 7.41%
+  Doris: 1.85%
+Martha:
+  Katharina: 55.56%
+  Jana: 27.78%
+  Hannah: 7.41%
+  Egon: 4.63%
+  Alexander: 3.7%
+  Doris: 0.93%
+Mikkel:
+  Katharina: 55.56%
+  Jana: 27.78%
+  Hannah: 7.41%
+  Egon: 4.63%
+  Alexander: 3.7%
+  Doris: 0.93%
+Jonas:
+  Hannah: 53.7%
+  Katharina: 27.78%
+  Jana: 13.89%
+  Egon: 2.31%
+  Alexander: 1.85%
+  Doris: 0.46%
+Unknown:
+  Katharina: 41.67%
+  Hannah: 30.56%
+  Jana: 20.83%
+  Egon: 3.47%
+  Alexander: 2.78%
+  Doris: 0.69%

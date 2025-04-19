@@ -1,0 +1,100 @@
+If Bernd had been Helge's biological father. I added Peter's ancestors to the tree.
+This leads to some incest as he is now both Peter's grandfather and Charlotte's great-great-great-grandfather.
+Helge:
+  Bernd: 50.0%
+  Greta: 50.0%
+Claudia:
+  Egon: 50.0%
+  Doris: 50.0%
+Regina:
+  Bernd: 50.0%
+  Egon: 25.0%
+  Doris: 25.0%
+Bartosz:
+  Alexander: 50.0%
+  Bernd: 25.0%
+  Egon: 12.5%
+  Doris: 12.5%
+Peter:
+  Ulla: 50.0%
+  Bernd: 25.0%
+  Greta: 25.0%
+Silja:
+  Egon: 50.0%
+  Hannah: 50.0%
+Noah:
+  Egon: 31.25%
+  Alexander: 25.0%
+  Hannah: 25.0%
+  Bernd: 12.5%
+  Doris: 6.25%
+Agnes:
+  Egon: 31.25%
+  Alexander: 25.0%
+  Hannah: 25.0%
+  Bernd: 12.5%
+  Doris: 6.25%
+Elizabeth:
+  Ulla: 33.33%
+  Bernd: 20.83%
+  Greta: 16.67%
+  Egon: 10.42%
+  Alexander: 8.33%
+  Hannah: 8.33%
+  Doris: 2.08%
+Charlotte:
+  Egon: 20.83%
+  Bernd: 16.67%
+  Alexander: 16.67%
+  Ulla: 16.67%
+  Hannah: 16.67%
+  Greta: 8.33%
+  Doris: 4.17%
+Tronte:
+  Hannah: 27.59%
+  Katharina: 20.69%
+  Egon: 17.24%
+  Alexander: 13.79%
+  Jana: 10.34%
+  Bernd: 6.9%
+  Doris: 3.45%
+Ulrich:
+  Jana: 55.17%
+  Hannah: 13.79%
+  Katharina: 10.34%
+  Egon: 8.62%
+  Alexander: 6.9%
+  Bernd: 3.45%
+  Doris: 1.72%
+Martha:
+  Katharina: 55.17%
+  Jana: 27.59%
+  Hannah: 6.9%
+  Egon: 4.31%
+  Alexander: 3.45%
+  Bernd: 1.72%
+  Doris: 0.86%
+Mikkel:
+  Katharina: 55.17%
+  Jana: 27.59%
+  Hannah: 6.9%
+  Egon: 4.31%
+  Alexander: 3.45%
+  Bernd: 1.72%
+  Doris: 0.86%
+Jonas:
+  Hannah: 53.45%
+  Katharina: 27.59%
+  Jana: 13.79%
+  Egon: 2.16%
+  Alexander: 1.72%
+  Bernd: 0.86%
+  Doris: 0.43%
+Unknown:
+  Katharina: 41.38%
+  Hannah: 30.17%
+  Jana: 20.69%
+  Egon: 3.23%
+  Alexander: 2.59%
+  Bernd: 1.29%
+  Doris: 0.65%

@@ -1,0 +1,235 @@
+Genealogy accounting separately for alternate universe versions.
+Note that individuals have asymmetric ancestry from both universes.
+For example, Hannah is Unknown's grandmother, but alt-Hannah is not, so Unknown is more Hannah than alt-Hannah.
+Claudia:
+  Egon: 50.0%
+  Doris: 50.0%
+Regina:
+  Bernd: 50.0%
+  Egon: 25.0%
+  Doris: 25.0%
+Bartosz:
+  Alexander: 50.0%
+  Bernd: 25.0%
+  Egon: 12.5%
+  Doris: 12.5%
+Silja:
+  Egon: 50.0%
+  Hannah: 50.0%
+Noah:
+  Egon: 31.25%
+  Alexander: 25.0%
+  Hannah: 25.0%
+  Bernd: 12.5%
+  Doris: 6.25%
+Agnes:
+  Egon: 31.25%
+  Alexander: 25.0%
+  Hannah: 25.0%
+  Bernd: 12.5%
+  Doris: 6.25%
+Elizabeth:
+  Peter: 66.67%
+  Egon: 10.42%
+  Alexander: 8.33%
+  Hannah: 8.33%
+  Bernd: 4.17%
+  Doris: 2.08%
+Charlotte:
+  Peter: 33.33%
+  Egon: 20.83%
+  Alexander: 16.67%
+  Hannah: 16.67%
+  Bernd: 8.33%
+  Doris: 4.17%
+Tronte:
+  Hannah: 26.72%
+  Egon: 16.16%
+  alt-Katharina: 13.79%
+  Alexander: 12.93%
+  Katharina: 6.9%
+  alt-Jana: 6.9%
+  Bernd: 6.47%
+  Jana: 3.45%
+  Doris: 3.23%
+  alt-Egon: 1.08%
+  alt-Alexander: 0.86%
+  alt-Hannah: 0.86%
+  alt-Bernd: 0.43%
+  alt-Doris: 0.22%
+Ulrich:
+  Jana: 51.72%
+  Hannah: 13.36%
+  Egon: 8.08%
+  alt-Katharina: 6.9%
+  Alexander: 6.47%
+  Katharina: 3.45%
+  alt-Jana: 3.45%
+  Bernd: 3.23%
+  Doris: 1.62%
+  alt-Egon: 0.54%
+  alt-Alexander: 0.43%
+  alt-Hannah: 0.43%
+  alt-Bernd: 0.22%
+  alt-Doris: 0.11%
+Martha:
+  Katharina: 51.72%
+  Jana: 25.86%
+  Hannah: 6.68%
+  Egon: 4.04%
+  alt-Katharina: 3.45%
+  Alexander: 3.23%
+  alt-Jana: 1.72%
+  Bernd: 1.62%
+  Doris: 0.81%
+  alt-Egon: 0.27%
+  alt-Alexander: 0.22%
+  alt-Hannah: 0.22%
+  alt-Bernd: 0.11%
+  alt-Doris: 0.05%
+Mikkel:
+  Katharina: 51.72%
+  Jana: 25.86%
+  Hannah: 6.68%
+  Egon: 4.04%
+  alt-Katharina: 3.45%
+  Alexander: 3.23%
+  alt-Jana: 1.72%
+  Bernd: 1.62%
+  Doris: 0.81%
+  alt-Egon: 0.27%
+  alt-Alexander: 0.22%
+  alt-Hannah: 0.22%
+  alt-Bernd: 0.11%
+  alt-Doris: 0.05%
+Jonas:
+  Hannah: 53.34%
+  Katharina: 25.86%
+  Jana: 12.93%
+  Egon: 2.02%
+  alt-Katharina: 1.72%
+  Alexander: 1.62%
+  alt-Jana: 0.86%
+  Bernd: 0.81%
+  Doris: 0.4%
+  alt-Egon: 0.13%
+  alt-Alexander: 0.11%
+  alt-Hannah: 0.11%
+  alt-Bernd: 0.05%
+  alt-Doris: 0.03%
+Unknown:
+  Hannah: 28.45%
+  alt-Katharina: 27.59%
+  Katharina: 13.79%
+  alt-Jana: 13.79%
+  Jana: 6.9%
+  alt-Egon: 2.16%
+  alt-Alexander: 1.72%
+  alt-Hannah: 1.72%
+  Egon: 1.08%
+  Alexander: 0.86%
+  alt-Bernd: 0.86%
+  Bernd: 0.43%
+  alt-Doris: 0.43%
+  Doris: 0.22%
+alt-Claudia:
+  alt-Egon: 50.0%
+  alt-Doris: 50.0%
+alt-Regina:
+  alt-Bernd: 50.0%
+  alt-Egon: 25.0%
+  alt-Doris: 25.0%
+alt-Bartosz:
+  alt-Alexander: 50.0%
+  alt-Bernd: 25.0%
+  alt-Egon: 12.5%
+  alt-Doris: 12.5%
+alt-Silja:
+  alt-Egon: 50.0%
+  alt-Hannah: 50.0%
+alt-Noah:
+  alt-Egon: 31.25%
+  alt-Alexander: 25.0%
+  alt-Hannah: 25.0%
+  alt-Bernd: 12.5%
+  alt-Doris: 6.25%
+alt-Agnes:
+  alt-Egon: 31.25%
+  alt-Alexander: 25.0%
+  alt-Hannah: 25.0%
+  alt-Bernd: 12.5%
+  alt-Doris: 6.25%
+alt-Elizabeth:
+  alt-Peter: 66.67%
+  alt-Egon: 10.42%
+  alt-Alexander: 8.33%
+  alt-Hannah: 8.33%
+  alt-Bernd: 4.17%
+  alt-Doris: 2.08%
+alt-Charlotte:
+  alt-Peter: 33.33%
+  alt-Egon: 20.83%
+  alt-Alexander: 16.67%
+  alt-Hannah: 16.67%
+  alt-Bernd: 8.33%
+  alt-Doris: 4.17%
+alt-Tronte:
+  alt-Egon: 16.7%
+  Hannah: 14.22%
+  alt-Katharina: 13.79%
+  alt-Alexander: 13.36%
+  alt-Hannah: 13.36%
+  Katharina: 6.9%
+  alt-Jana: 6.9%
+  alt-Bernd: 6.68%
+  Jana: 3.45%
+  alt-Doris: 3.34%
+  Egon: 0.54%
+  Alexander: 0.43%
+  Bernd: 0.22%
+  Doris: 0.11%
+alt-Ulrich:
+  alt-Jana: 53.45%
+  alt-Egon: 8.35%
+  Hannah: 7.11%
+  alt-Katharina: 6.9%
+  alt-Alexander: 6.68%
+  alt-Hannah: 6.68%
+  Katharina: 3.45%
+  alt-Bernd: 3.34%
+  Jana: 1.72%
+  alt-Doris: 1.67%
+  Egon: 0.27%
+  Alexander: 0.22%
+  Bernd: 0.11%
+  Doris: 0.05%
+alt-Martha:
+  alt-Katharina: 53.45%
+  alt-Jana: 26.72%
+  alt-Egon: 4.18%
+  Hannah: 3.56%
+  alt-Alexander: 3.34%
+  alt-Hannah: 3.34%
+  Katharina: 1.72%
+  alt-Bernd: 1.67%
+  Jana: 0.86%
+  alt-Doris: 0.84%
+  Egon: 0.13%
+  Alexander: 0.11%
+  Bernd: 0.05%
+  Doris: 0.03%
+alt-Mikkel:
+  alt-Katharina: 53.45%
+  alt-Jana: 26.72%
+  alt-Egon: 4.18%
+  Hannah: 3.56%
+  alt-Alexander: 3.34%
+  alt-Hannah: 3.34%
+  Katharina: 1.72%
+  alt-Bernd: 1.67%
+  Jana: 0.86%
+  alt-Doris: 0.84%
+  Egon: 0.13%
+  Alexander: 0.11%
+  Bernd: 0.05%
+  Doris: 0.03%
